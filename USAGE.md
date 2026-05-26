@@ -4,13 +4,13 @@
 
 ### Replace "1" by the lobby name you want the player to be matchmaked!
 
+## ⟪ *Sandbox* ⟫
+
 ## *Sandbox* Survival
 
 ```js
 api.matchmakePlayer(myId, "classic_survival", "1");
 ```
-
-## *Sandbox*
 
 ### *Sandbox* Peaceful
 
@@ -54,33 +54,33 @@ api.matchmakePlayer(myId, "classic_survivalFactory", "1");
 api.matchmakePlayer(myId, "oneBlock", "1");
 ```
 
-## Bedwars
+## ⟪ *Bedwars* ⟫
 
-### Bedwars Squads
+### *Bedwars* Squads
 
 ```js
 api.matchmakePlayer(myId, "bedwars_4v4v4v4", "1");
 ```
 
-### Bedwars Trios
+### *Bedwars* Trios
 
 ```js
 api.matchmakePlayer(myId, "bedwars_trio", "1");
 ```
 
-### Bedwars Duos
+### *Bedwars* Duos
 
 ```js
 api.matchmakePlayer(myId, "bedwars_duo", "1");
 ```
 
-### Bedwars Solos
+### *Bedwars* Solos
 
 ```js
 api.matchmakePlayer(myId, "bedwars_solo", "1");
 ```
 
-### Ranked Bedwars 4v4
+### Ranked *Bedwars* 4v4
 
 ```js
 api.matchmakePlayer(myId, "bedwars_4v4", "1");
@@ -104,15 +104,15 @@ api.matchmakePlayer(myId, "99nights", "1");
 api.matchmakePlayer(myId, "classic_survivalGuns", "1");
 ```
 
-## Cube Warfare
+## ⟪ *Cube Warfare* ⟫
 
-### Cube Warfare Teams
+### *Cube Warfare* Teams
 
 ```js
 api.matchmakePlayer(myId, "shooting_tdm", "1");
 ```
 
-### Cube Warfare Free-For-All
+### *Cube Warfare* Free-For-All
 
 ```js
 api.matchmakePlayer(myId, "shooting_ffa", "1");
@@ -142,9 +142,9 @@ api.matchmakePlayer(myId, "pirates", "1");
 api.matchmakePlayer(myId, "luckyblockbattle", "1");
 ```
 
-## Greenville
+## ⟪ *Greenville* ⟫
 
-### Greenville
+### *Greenville*
 
 ```js
 api.matchmakePlayer(myId, "greenville", "1");
@@ -156,7 +156,7 @@ api.matchmakePlayer(myId, "greenville", "1");
 api.matchmakePlayer(myId, "greenville_spleefMM", "1");
 ```
 
-### Isle of Grove
+### *Greenville* Isle of Grove
 
 ```js
 api.matchmakePlayer(myId, "greenville_profIsland", "1");
@@ -204,41 +204,41 @@ api.matchmakePlayer(myId, "hideseek", "1");
 api.matchmakePlayer(myId, "eviltower", "1");
 ```
 
-## Doodle Cube
+## ⟪ *Doodle Cube* ⟫
 
-### Doodle Cube Solos
+### *Doodle Cube* Solos
 
 ```js
 api.matchmakePlayer(myId, "doodle_solo", "1");
 ```
 
-### Doodle Cube Duos
+### *Doodle Cube* Duos
 
 ```js
 api.matchmakePlayer(myId, "doodle_duo", "1");
 ```
 
-## Sky Islands
+## ⟪ *Sky Islands* ⟫
 
-### Sky Islands Solo
+### *Sky Islands* Solo
 
 ```js
 api.matchmakePlayer(myId, "sky-islands_solo", "1");
 ```
 
-### Sky Islands Teams
+### *Sky Islands* Teams
 
 ```js
 api.matchmakePlayer(myId, "sky-islands_teams", "1");
 ```
 
-### Sky Islands Blitz
+### *Sky Islands* Blitz
 
 ```js
 api.matchmakePlayer(myId, "sky-islands_blitz", "1");
 ```
 
-### Sky Islands PvE
+### *Sky Islands* PvE
 
 ```js
 api.matchmakePlayer(myId, "sky-islands_pve", "1");
