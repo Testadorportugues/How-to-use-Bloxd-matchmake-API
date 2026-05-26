@@ -1,8 +1,10 @@
-# Last Updated: 26/05/2026 (Day/Month/Year)
+# Usage Guide
+
+> **Last Updated:** 26/05/2026 (Day/Month/Year)
+
+> **Note:** Replace `"1"` with the lobby name/number you want the player to be sent to.
 
 ## Homepage Games of Bloxd.io
-
-### Replace "1" by the lobby name you want the player to be matchmaked!
 
 ## ⟪ *Sandbox* ⟫
 
