@@ -6,7 +6,7 @@
 
 ## ⟪ *Sandbox* ⟫
 
-## *Sandbox* Survival
+### *Sandbox* Survival
 
 ```js
 api.matchmakePlayer(myId, "classic_survival", "1");
