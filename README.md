@@ -39,3 +39,12 @@ Replace `"XXXXXXXXXX"` with the desired Custom Game ID and `"lobbyName"` with th
 ```js
 api.matchmakePlayer(myId, "classic_playerSchematic%7CVJmue7CFECakKq4fBsdG5", "1");
 ```
+
+## License
+This project is licensed under the **MIT License**. **You're free to modify and distribute as long as you include the LICENSE file and any existing copyright notices. See the LICENSE file for details.**
+
+## Contributing
+Feel free to fork this project and submit pull requests! Contributions are welcome, especially:
+- New game modes added to Bloxd.io
+- Corrections to existing game mode IDs
+- Improvements to the documentation
