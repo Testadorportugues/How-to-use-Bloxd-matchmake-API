@@ -1,4 +1,4 @@
-# This file have been updated in 26/05/2026 (Day/Month/Year)
+# Last Updated: 26/05/2026 (Day/Month/Year)
 
 ## Homepage Games of Bloxd.io
 
