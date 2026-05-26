@@ -21,12 +21,6 @@ api.matchmakePlayer(myId, "classic", "1");
 ### *Sandbox* Creative
 
 ```js
-api.matchmakePlayer(myId, "classic", "1");
-```
-
-### *Sandbox* Creative
-
-```js
 api.matchmakePlayer(myId, "classic_creative", "1");
 ```
 
