@@ -40,6 +40,8 @@ Replace `"XXXXXXXXXX"` with the desired Custom Game ID and `"lobbyName"` with th
 api.matchmakePlayer(myId, "classic_playerSchematic%7CVJmue7CFECakKq4fBsdG5", "1");
 ```
 
+> **Note:** `%7C` is the URL-encoded form of `|` — both work in the function.
+
 ## License
 This project is licensed under the **MIT License**. **You're free to modify and distribute as long as you include the LICENSE file and any existing copyright notices. See the LICENSE file for details.**
 
