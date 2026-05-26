@@ -4,8 +4,8 @@ This repository documents how to use the `api.matchmakePlayer()` function in Blo
 
 ## Files
 
-- [Usage.md](Usage.md) — All available games on bloxd.io
-- [Usage-Staging.md](USAGE-STAGING.md) — Extra games available on staging.bloxd.io (may have bugs)
+- [USAGE-HOMEPAGE.md](USAGE-HOMEPAGE.md) — All available games on bloxd.io
+- [USAGE-STAGING.md](USAGE-STAGING.md) — Extra games available on staging.bloxd.io (may have bugs)
 
 ## Basic Syntax
 
