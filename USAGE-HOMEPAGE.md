@@ -1,6 +1,6 @@
 # Usage Guide
 
-> **Last Updated:** 26/05/2026 (Day/Month/Year)
+> **Last Updated:** 27/05/2026 (Day/Month/Year)
 
 > **Note:** Replace `"1"` with the lobby name/number you want the player to be sent to.
 
@@ -120,10 +120,30 @@ api.matchmakePlayer(myId, "shooting_ffa", "1");
 api.matchmakePlayer(myId, "infection", "1");
 ```
 
-## Clutch
+## ⟪ *Clutch* ⟫
+
+### Clutch
 
 ```js
 api.matchmakePlayer(myId, "clutch", "1");
+```
+
+### Clutch 1v1
+
+```js
+api.matchmakePlayer(myId, "clutch_1v1", "1");
+```
+
+### Clutch 2v2
+
+```js
+api.matchmakePlayer(myId, "clutch_2v2", "1");
+```
+
+### Clutch 3v3
+
+```js
+api.matchmakePlayer(myId, "clutch_3v3", "1");
 ```
 
 ## Pirates
