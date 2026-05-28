@@ -47,6 +47,6 @@ This project is licensed under the **MIT License**. **You're free to modify and 
 
 ## Contributing
 Feel free to fork this project and submit pull requests! Contributions are welcome, especially:
-- New game modes added to Bloxd.io
+- New games added to Bloxd.io
 - Corrections to existing game mode IDs
 - Improvements to the documentation
