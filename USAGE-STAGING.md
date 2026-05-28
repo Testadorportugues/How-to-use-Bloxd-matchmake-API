@@ -14,6 +14,12 @@
 api.matchmakePlayer(myId, "luckyAuras", "1");
 ```
 
+## PvP Civilisation
+
+```js
+api.matchmakePlayer(myId, "pvpCiv", "1");
+```
+
 ## TestMode
 
 ```js
