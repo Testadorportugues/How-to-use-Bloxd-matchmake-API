@@ -1,6 +1,6 @@
 # Usage Guide
 
-> **Last Updated:** 27/05/2026 (Day/Month/Year)
+> **Last Updated:** 31/05/2026 (Day/Month/Year)
 
 > **Note:** Replace `"1"` with the lobby name/number you want the player to be sent to.
 
@@ -38,10 +38,18 @@ api.matchmakePlayer(myId, "classic_survivalDayNight", "1");
 api.matchmakePlayer(myId, "classic_smp", "1");
 ```
 
-## Build a Factory
+## ⟪ Build a Factory ⟫
+
+### Build a Factory
 
 ```js
 api.matchmakePlayer(myId, "classic_survivalFactory", "1");
+```
+
+### Build a Factory Persistant
+
+```js
+api.matchmakePlayer(myId, "classic_survivalFactoryPersistent", "1");
 ```
 
 ## One Block
