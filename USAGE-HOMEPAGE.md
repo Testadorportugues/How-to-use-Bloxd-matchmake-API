@@ -6,25 +6,25 @@
 
 ## Homepage Games of Bloxd.io
 
-## ⟪ *Sandbox* ⟫
+<details>
+<summary><h2>⟪ Sandbox ⟫</h2></summary>
 
 ### *Sandbox* Survival
-
 ```js
 api.matchmakePlayer(myId, "classic_survival", "1");
 ```
 
 ### *Sandbox* Peaceful
-
 ```js
 api.matchmakePlayer(myId, "classic", "1");
 ```
 
 ### *Sandbox* Creative
-
 ```js
 api.matchmakePlayer(myId, "classic_creative", "1");
 ```
+
+</details>
 
 ## Day and Night Survival
 
@@ -38,19 +38,22 @@ api.matchmakePlayer(myId, "classic_survivalDayNight", "1");
 api.matchmakePlayer(myId, "classic_smp", "1");
 ```
 
-## ⟪ Build a Factory ⟫
+<details>
+<summary><h2>⟪ Build a Factory ⟫</h2></summary>
 
-### Build a Factory
+### *Build a Factory*
 
 ```js
 api.matchmakePlayer(myId, "classic_survivalFactory", "1");
 ```
 
-### Build a Factory Persistant
+### *Build a Factory* Persistant
 
 ```js
 api.matchmakePlayer(myId, "classic_survivalFactoryPersistent", "1");
 ```
+
+</details>
 
 ## One Block
 
@@ -58,7 +61,8 @@ api.matchmakePlayer(myId, "classic_survivalFactoryPersistent", "1");
 api.matchmakePlayer(myId, "oneBlock", "1");
 ```
 
-## ⟪ *Bedwars* ⟫
+<details>
+<summary><h2>⟪ Bedwars ⟫</h2></summary>
 
 ### *Bedwars* Squads
 
@@ -90,6 +94,8 @@ api.matchmakePlayer(myId, "bedwars_solo", "1");
 api.matchmakePlayer(myId, "bedwars_4v4", "1");
 ```
 
+</details>
+
 ## Last Stand
 
 ```js
@@ -108,7 +114,8 @@ api.matchmakePlayer(myId, "99nights", "1");
 api.matchmakePlayer(myId, "classic_survivalGuns", "1");
 ```
 
-## ⟪ *Cube Warfare* ⟫
+<details>
+<summary><h2>⟪ Cube Warfare ⟫</h2></summary>
 
 ### *Cube Warfare* Teams
 
@@ -122,13 +129,16 @@ api.matchmakePlayer(myId, "shooting_tdm", "1");
 api.matchmakePlayer(myId, "shooting_ffa", "1");
 ```
 
+</details>
+
 ## Infection
 
 ```js
 api.matchmakePlayer(myId, "infection", "1");
 ```
 
-## ⟪ *Clutch* ⟫
+<details>
+<summary><h2>⟪ Clutch ⟫</h2></summary>
 
 ### Clutch
 
@@ -154,6 +164,8 @@ api.matchmakePlayer(myId, "clutch_2v2", "1");
 api.matchmakePlayer(myId, "clutch_3v3", "1");
 ```
 
+</details>
+
 ## Pirates
 
 ```js
@@ -166,7 +178,8 @@ api.matchmakePlayer(myId, "pirates", "1");
 api.matchmakePlayer(myId, "luckyblockbattle", "1");
 ```
 
-## ⟪ *Greenville* ⟫
+<details>
+<summary><h2>⟪ Greenville ⟫</h2></summary>
 
 ### *Greenville*
 
@@ -185,6 +198,8 @@ api.matchmakePlayer(myId, "greenville_spleefMM", "1");
 ```js
 api.matchmakePlayer(myId, "greenville_profIsland", "1");
 ```
+
+</details>
 
 ## Plots
 
@@ -228,7 +243,8 @@ api.matchmakePlayer(myId, "hideseek", "1");
 api.matchmakePlayer(myId, "eviltower", "1");
 ```
 
-## ⟪ *Doodle Cube* ⟫
+<details>
+<summary><h2>⟪ Doodle Cube ⟫</h2></summary>
 
 ### *Doodle Cube* Solos
 
@@ -242,7 +258,10 @@ api.matchmakePlayer(myId, "doodle_solo", "1");
 api.matchmakePlayer(myId, "doodle_duo", "1");
 ```
 
-## ⟪ *Sky Islands* ⟫
+</details>
+
+<details>
+<summary><h2>⟪ Sky Islands ⟫</h2></summary>
 
 ### *Sky Islands* Solo
 
@@ -267,6 +286,8 @@ api.matchmakePlayer(myId, "sky-islands_blitz", "1");
 ```js
 api.matchmakePlayer(myId, "sky-islands_pve", "1");
 ```
+
+</details>
 
 ## Core Defenders
 
