@@ -7,19 +7,7 @@
 ## Extra Games of Staging.bloxd.io
 
 > **Note:** These games may have bugs — staging.bloxd.io is used for testing only. The main website is bloxd.io.
-
-## Break Lucky Blocks for Aura
-
-```js
-api.matchmakePlayer(myId, "luckyAuras", "1");
-```
-
-## PvP Civilisation
-
-```js
-api.matchmakePlayer(myId, "pvpCiv", "1");
-```
-
+> 
 ## TestMode
 
 ```js
