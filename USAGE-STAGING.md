@@ -1,6 +1,6 @@
 # Usage Guide
 
-> **Last Updated:** 28/05/2026 (Day/Month/Year)
+> **Last Updated:** 09/07/2026 (Day/Month/Year)
 
 > **Note:** Replace `"1"` with the lobby name/number you want the player to be sent to.
 
