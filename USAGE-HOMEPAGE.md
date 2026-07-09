@@ -1,6 +1,6 @@
 # Usage Guide
 
-> **Last Updated:** 31/05/2026 (Day/Month/Year)
+> **Last Updated:** 09/07/2026 (Day/Month/Year)
 
 > **Note:** Replace `"1"` with the lobby name/number you want the player to be sent to.
 
@@ -293,4 +293,81 @@ api.matchmakePlayer(myId, "sky-islands_pve", "1");
 
 ```js
 api.matchmakePlayer(myId, "coreDefenders", "1");
+```
+
+<details>
+<summary><h2>⟪ Containment Breach ⟫</h2></summary>
+
+### *Containment Breach*
+
+```js
+api.matchmakePlayer(myId, "containmentBreach", "1");
+```
+
+### *Containment Breach Contained (Easy)*
+
+```js
+api.matchmakePlayer(myId, "containmentBreach_contained", "1");
+```
+
+### *Containment Breach Breached (Hard)*
+
+```js
+api.matchmakePlayer(myId, "containmentBreach_breached", "1");
+```
+
+</details>
+
+## Frontline
+
+```js
+api.matchmakePlayer(myId, "frontline", "1");
+```
+
+## Eat To Grow
+
+```js
+api.matchmakePlayer(myId, "eatToGrow", "1");
+```
+
+## Dress Up
+
+```js
+api.matchmakePlayer(myId, "dressUp", "1");
+```
+
+## DimensionZ (Base)
+
+```js
+api.matchmakePlayer(myId, "extraction", "1");
+```
+
+## Bridge Battle
+
+```js
+api.matchmakePlayer(myId, "bridgeBattle", "1");
+```
+
+## Backrooms
+
+```js
+api.matchmakePlayer(myId, "backrooms", "1");
+```
+
+## Minigames
+
+```js
+api.matchmakePlayer(myId, "minigames", "1");
+```
+
+## Simon Says
+
+```js
+api.matchmakePlayer(myId, "simonSays", "1");
+```
+
+## PvP Civilisation
+
+```js
+api.matchmakePlayer(myId, "pvp-civilization", "1");
 ```
